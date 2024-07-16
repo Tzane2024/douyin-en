@@ -1,7 +1,7 @@
 [
   {
     "aweme_id": "7260749400622894336",
-    "desc": "你说爱像云 要自在漂浮才美丽",
+    "desc": "位置1：你说爱像云 要自在漂浮才美丽",
     "create_time": 1690524964,
     "music": {
       "id": 7123453673090321000,
@@ -90,7 +90,7 @@
     "is_top": 1,
     "share_info": {
       "share_url": "https://www.iesdouyin.com/share/video/7260749400622894336/?region=CN&mid=7123453673090321159&u_code=13kgm680k&did=MS4wLjABAAAAiOgYyZm8XbWZMr5o3OvhR-TEOuNygb_hQOwkie-VXJpDYaR4vZfpiIGBfAWKCFHB&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&titleType=title&share_sign=LF.QuEh0GZk3quR7m.I3KpyKn2XyfNLNYHzuQDgWLpc-&share_version=170400&ts=1710491656&from_aid=6383&from_ssr=1",
-      "share_link_desc": "7.46 04/12 Duf:/ D@h.ba 你说爱像云 要自在漂浮才美丽  %s 复制此链接，打开Dou音搜索，直接观看视频！"
+      "share_link_desc": "位置2：7.46 04/12 Duf:/ D@h.ba 你说爱像云 要自在漂浮才美丽  %s 复制此链接，打开Dou音搜索，直接观看视频！"
     },
     "duration": 13560,
     "image_infos": null,
@@ -117,33 +117,33 @@
         {
           "words": [
             {
-              "word": "一只顾",
+              "word": "位置3：一只顾",
               "word_id": "6658760941217256711",
               "info": "{\"qrec_for_search\":\"{\\\"video_ecom\\\":\\\"1\\\"}\"}"
             }
           ],
           "scene": "comment_top_rec",
           "icon_url": "",
-          "hint_text": "大家都在搜：",
+          "hint_text": "位置4：大家都在搜：",
           "extra_info": "{}"
         },
         {
           "words": [
             {
-              "word": "香秀早期照片护士",
+              "word": "位置5：香秀早期照片护士",
               "word_id": "6999224590481708302",
               "info": "{\"qrec_for_search\":\"{\\\"video_ecom\\\":\\\"1\\\"}\"}"
             }
           ],
           "scene": "feed_bottom_rec",
           "icon_url": "",
-          "hint_text": "相关搜索",
+          "hint_text": "位置6：相关搜索",
           "extra_info": "{}"
         },
         {
           "words": [
             {
-              "word": "一只顾",
+              "word": "位置7：一只顾",
               "word_id": "6658760941217256711",
               "info": "{\"qrec_for_search\":\"{\\\"video_ecom\\\":\\\"1\\\"}\"}"
             }
@@ -200,8 +200,8 @@
               "https://lf26-static.bytednsdoc.com/obj/eden-cn/azlylaup_j_tvjl/ljhwZthlaukjlkulzlp/ecom_window/ecom_window_other_light-2x.png"
             ]
           },
-          "sub_title": "6件好物",
-          "title": "进入橱窗",
+          "sub_title": "位置8：6件好物",
+          "title": "位置9：进入橱窗",
           "type": 1
         }
       ],
@@ -241,15 +241,15 @@
       "following_count": 88,
       "forward_count": 79,
       "gender": 2,
-      "ip_location": "IP属地：天津",
+      "ip_location": "位置10：IP属地：天津",
       "max_follower_count": 7078290,
       "mplatform_followers_count": 7078268,
-      "nickname": "我是香秀🐂🍺",
+      "nickname": "位置11：我是香秀🐂🍺",
       "province": "",
       "public_collects_count": 0,
       "share_info": {
         "bool_persist": 1,
-        "share_desc": "长按复制此条消息，打开抖音搜索，查看TA的更多作品。",
+        "share_desc": "位置12：长按复制此条消息，打开抖音搜索，查看TA的更多作品。",
         "share_image_url": {
           "uri": "tos-cn-p-0015/oge0HBDnlBbbZHjeDc4WtAI7AA0xb88gd9Ipjc",
           "url_list": ["5jTb5yW0_50o6UaLR5hvo.png"]
@@ -262,12 +262,12 @@
             "https://p11.douyinpic.com/obj/216a001823018b74cedd"
           ]
         },
-        "share_title": "快来加入抖音，让你发现最有趣的我！",
+        "share_title": "位置13：快来加入抖音，让你发现最有趣的我！",
         "share_url": "www.iesdouyin.com/share/user/MS4wLjABAAAAe_AKPvxBX0C_4vyLj5Wye-_BU8M0S6tZFZUu61FuycU?did=MS4wLjABAAAAiOgYyZm8XbWZMr5o3OvhR-TEOuNygb_hQOwkie-VXJpDYaR4vZfpiIGBfAWKCFHB&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&sec_uid=MS4wLjABAAAAe_AKPvxBX0C_4vyLj5Wye-_BU8M0S6tZFZUu61FuycU&from_ssr=1&from_aid=6383&u_code=13kgm680k",
-        "share_weibo_desc": "长按复制此条消息，打开抖音搜索，查看TA的更多作品。"
+        "share_weibo_desc": "位置14：长按复制此条消息，打开抖音搜索，查看TA的更多作品。"
       },
       "short_id": "8357999",
-      "signature": "合作：X229896（备注品牌 ）",
+      "signature": "位置15：合作：X229896（备注品牌 ）",
       "total_favorited": 202309485,
       "uid": "59054327754",
       "unique_id": "",
@@ -286,7 +286,7 @@
   },
   {
     "aweme_id": "6686589698707590411",
-    "desc": "门有点矮哟～",
+    "desc": "位置16：门有点矮哟～",
     "create_time": 1556887936,
     "music": {
       "id": 6452110567468436000,
